@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/tn-duc/">
+  <a href="https://www.linkedin.com/in/tnduck/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCzyH8mXsJasteZewIQvb2wQ">
@@ -20,7 +20,7 @@
 
 - :zap: In my free time, I solve problems on Hackerrank and play chess ♟️.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tnd.duc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tn-duc/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tnd.duc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tnduck/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
