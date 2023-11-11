@@ -12,7 +12,7 @@
   </a>
 </div>
 </div>
----
+
 
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Software Engineer and contributing to java backend for building web applications.
